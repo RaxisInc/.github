@@ -1,5 +1,5 @@
 ## Raxis
-![Raxis Logo](https://images.squarespace-cdn.com/content/v1/5e9da9c40d780c1241998b0f/1587391570727-PFCRBV9IFOH1AMU5LM6R/raxis_logo_neg.png?format=1500w)
+![Raxis Logo](/images/raxis_logo_pos.png)
 
 A team of dedicated security professionals helping to make the world more secure, one organization at a time.
 
