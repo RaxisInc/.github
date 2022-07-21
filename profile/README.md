@@ -7,6 +7,8 @@ A team of dedicated security professionals helping to make the world more secure
 Raxis Attacks. Raxis Protects. Raxis gives back to the security community. We contribute with public CVE disclosures, Metasploit modules, and exploit walkthroughs to share our knowledge and help everyone understand security. 
 
 ### CVEs
+- CVE-2022-26777: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
+- CVE-2022-26653: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
 - CVE-2022-25373: [ManageEngine Support Center Plus Stored XSS](https://raxis.com/blog/cve-2022-25373)
 - CVE-2022-25245: [ManageEngine Asset Explorer Information Leakage](https://raxis.com/blog/cve-2022-25245)
 - CVE-2022-24681: [ManageEngine AD Self Service Plus Stored XSS](https://raxis.com/blog/cve-2022-24681)
